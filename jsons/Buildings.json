@@ -23,7 +23,7 @@
 -Simón Bolívar",},]
 	},
 	{
-		"name": "Asign Survivors",
+		"name": "Assign Survivors",
 		"replaces": "Search for Survivors",
 		"uniqueTo": "Nuevo Paraíso",
                 "civilopediaText": [{"text": "The way to govern well is to employ honest men, even if they are our enemies.
@@ -111,7 +111,7 @@
 		   	"[+2 Culture] per [4] population [in all cities]",
 			"[+1 Science] per [3] population [in all cities]",
 			"[+1 Faith] per [6] population [in all cities]",
-                        "Provides 1 happiness per 2 additional social policies adopted",
+                        "Provides [+1 Happiness] per [2] social policies adopted",
 			"Can only be built [in capital]",
                         "Only available <in cities without a [Council]>",
 			"Destroyed when the city is captured"
@@ -251,7 +251,7 @@
 	},
  //Antarctica
         {
-                "name": "The Great Igloo  ",
+                "name": "The Great Igloo",
 		"isWonder": true,
 		"uniqueTo": "Antarctica",
 		"cost": 1,
